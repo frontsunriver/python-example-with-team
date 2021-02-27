@@ -32,15 +32,16 @@
 允许按照要求转载，但禁止用于任何商用目的。
 
 ## Python 原创教程
-这是经过很久打磨的一个Python教程，全部是个人原创，已首发在公众号，并且托管在我的[个人网站](http://www.zglg.work/?page_id=535)。想系统入门Python的欢迎学习：
+这是经过很久打磨的一个Python教程，全部是个人原创，已首发在公众号，并且托管在我的[个人网站](http://www.zglg.work/python-level/)。想系统入门Python的欢迎学习：
 
-[Python技术栈完整教程](http://www.zglg.work/?page_id=535)
+[Python进阶完整教程](http://www.zglg.work/python-level/)
 
 ![](./img/大纲.png)
 
 适合小白的 Python 系统入门课程
 
-- [1 数字专题](http://www.zglg.work/?page_id=530)
+- [0 Python引言](http://www.zglg.work/Python-20-topics/intro-python/)
+- [1 数字专题](http://www.zglg.work/Python-20-topics/python-number/)
 - [2 字符串专题](http://www.zglg.work/?page_id=540)
 - 3 列表专题
   - [3.1 列表基础](http://www.zglg.work/?page_id=563)
@@ -261,14 +262,14 @@
 | 180 | [category列转数值](./md/180.md) | pandas category | v1.0 | ⭐️⭐⭐ |
 | 181 | [rank排名](./md/181.md) | pandas rank | v1.0 | ⭐️⭐⭐|
 | 182 | [完成数据下采样，调整步长由小时为天](./md/182.md) | pandas resample | v1.0 | ⭐️⭐⭐ |
-| 183 | [如何用 Pandas 快速生成时间序列数据](/md/183.md) | pandas util | v1.0 | ⭐️⭐⭐ |
-| 184 | [如何快速找出 DataFrame 所有列 null 值个数](/md/184.md) | pandas isnull sum | v1.0 | ⭐️⭐⭐ |
-| 185 | [重新排序 DataFrame 的列](/md/185.md) | pandas dataframe | v1.0 | ⭐️⭐⭐ |
-| 186 | [使用 count 统计词条 出现次数](/md/186.md) | pandas count | v1.0 | ⭐️⭐⭐ |
-| 187 | [split 求时分(HH:mm)的分钟差](/md/187.md) | pandas split | v1.0 | ⭐️⭐⭐ |
-| 188 | [melt透视数据小技巧](/md/188.md) | pandas melt | v1.0 | ⭐️⭐⭐ |
-| 189 | [pivot 透视小技巧](/md/189.md) | pandas melt | v1.0 | ⭐️⭐⭐ |
-| 190 | [p随机读取文件的K行，生成N个](/md/190.md) | pandas sample | v1.0 | ⭐️⭐⭐ |
+| 183 | [如何用 Pandas 快速生成时间序列数据](./md/183.md) | pandas util | v1.0 | ⭐️⭐⭐ |
+| 184 | [如何快速找出 DataFrame 所有列 null 值个数](./md/184.md) | pandas isnull sum | v1.0 | ⭐️⭐⭐ |
+| 185 | [重新排序 DataFrame 的列](./md/185.md) | pandas dataframe | v1.0 | ⭐️⭐⭐ |
+| 186 | [使用 count 统计词条 出现次数](./md/186.md) | pandas count | v1.0 | ⭐️⭐⭐ |
+| 187 | [split 求时分(HH:mm)的分钟差](./md/187.md) | pandas split | v1.0 | ⭐️⭐⭐ |
+| 188 | [melt透视数据小技巧](./md/188.md) | pandas melt | v1.0 | ⭐️⭐⭐ |
+| 189 | [pivot 透视小技巧](./md/189.md) | pandas melt | v1.0 | ⭐️⭐⭐ |
+| 190 | [p随机读取文件的K行，生成N个](./md/190.md) | pandas sample | v1.0 | ⭐️⭐⭐ |
 | 191 | [格式化Pandas的时间列](md/191.md) | pandas apply | v1.0 | ⭐️⭐⭐⭐ |
 | 192 | [创建SQLite连接](md/192.md) | SQLite | v1.0 | ⭐️⭐⭐⭐ |
 | 193 | [json对象转python对象](md/193.md) | python json | v1.0 | ⭐️⭐⭐⭐ |
